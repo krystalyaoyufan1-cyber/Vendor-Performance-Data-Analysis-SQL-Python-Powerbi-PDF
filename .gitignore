@@ -1,4 +1,9 @@
-data/data/sales.csv
-data/data/purchases.csv
-data/data/all data.zip
+# Large raw data (not uploaded)
 inventory.db
+data/data/
+
+# Environments & logs
+.venv/
+log_files/
+logs/
+.ipynb_checkpoints/
